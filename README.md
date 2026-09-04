@@ -1004,6 +1004,7 @@ A curated list of awesome AI Agent frameworks, libraries and software.
 
 ### Automation and Scripting
 
+* [vostride/agent-qa](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP integration, and persistent execution memory.
 * [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 * [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 * [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
