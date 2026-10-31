@@ -660,6 +660,7 @@ A curated list of awesome AI Agent frameworks, libraries and software.
 * [braincrew-lab/langgraph-mcp-agents](https://github.com/braincrew-lab/langgraph-mcp-agents) - LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools.
 * [universal-tool-calling-protocol/python-utcp](https://github.com/universal-tool-calling-protocol/python-utcp) - Official python implementation of UTCP. UTCP is an open standard that lets AI agents call any API directly, without extra middleware.
 * [fdmtl/director](https://github.com/fdmtl/director) - MCP Playbooks for AI agents
+* [vostride/agent-qa](https://github.com/vostride/agent-qa) - Web and mobile QA via CLI/MCP, with reviewable evidence, memidex persistent memory and validated self-improvement; [website](https://vostride.com).
 
 ### Memory and Context
 
